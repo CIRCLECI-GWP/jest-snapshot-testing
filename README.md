@@ -1,6 +1,6 @@
 # Jest Snapshot testing
 
-[![CircleCI](https://circleci.com/gh/mwaz/jest-snapshot-testing.svg?style=svg)](https://circleci.com/gh/mwaz/jest-snapshot-testing)
+[![CircleCI](https://circleci.com/gh/CIRCLECI-GWP/jest-snapshot-testing/tree/main.svg?style=svg)](https://circleci.com/gh/CIRCLECI-GWP/jest-snapshot-testing/tree/main)
 
 <p align="center"><img src="https://avatars3.githubusercontent.com/u/59034516"></p>
 
@@ -14,7 +14,7 @@
 ## Cloning repository and changing directory
 
 ```bash
-git clone git@github.com:mwaz/jest-snapshot-testing.git;
+git clone https://github.com/CIRCLECI-GWP/jest-snapshot-testing.git;
 
 cd jest-snapshot-testing;
 ```
@@ -27,7 +27,7 @@ npm install
 ```bash
 npm run start
 ```
-## Running tests 
+## Running tests
 ```bash
 npm test
 ```
@@ -42,7 +42,7 @@ This repo is built following a tutorial published on CircleCI blog under the Cir
 
 Join a team of freelance writers and write about your favorite technology topics for the CircleCI blog. Read more about the program [here][gwp-program].
 
-Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan], [Amos Omondi][amos]
+Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan], [Amos Omondi][amos], [Dominic Motuka][daumie]
 
 
 [blog]: https://circleci.com/blog/jest-snapshot-testing/
@@ -52,3 +52,4 @@ Reviewers: [Ron Powell][ron], [Stanley Ndagi][stan], [Amos Omondi][amos]
 [ron]: https://github.com/ronpowelljr
 [stan]: https://github.com/NdagiStanley
 [amos]: https://github.com/amos-o
+[daumie]: https://github.com/daumie
