@@ -7,6 +7,9 @@ exports[`Jest Snapshot testing suite matches snapshot 1`] = `
   <div
     className="counter"
   >
+    <h1>
+      COUNTER
+    </h1>
     <div
       className="buttons"
     >
