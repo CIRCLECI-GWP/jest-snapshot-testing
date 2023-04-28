@@ -1,5 +1,32 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
+exports[`Jest Snapshot testing suite Should render 3 after three increments 1`] = `
+<div
+  className="counter"
+>
+  <h1>
+    COUNTER
+  </h1>
+  <div
+    className="buttons"
+  >
+    <button
+      onClick={[Function]}
+    >
+      Increment
+    </button>
+    <button
+      onClick={[Function]}
+    >
+      Decrement
+    </button>
+  </div>
+  <p>
+    3
+  </p>
+</div>
+`;
+
 exports[`Jest Snapshot testing suite matches snapshot 1`] = `
 <div
   className="App"
